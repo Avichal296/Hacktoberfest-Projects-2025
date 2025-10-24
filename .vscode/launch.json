@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Applications/untitled folder/Hacktoberfest-Projects-2025-main",
+      "program": "/Applications/untitled folder/Hacktoberfest-Projects-2025-main/build/Debug/outDebug"
+    }
+  ]
+}
